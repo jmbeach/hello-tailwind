@@ -1,5 +1,17 @@
 import './App.css';
 
+/*
+Challenge:
+
+1) Make the bottom corners of the wrapper div squared (not rounded)
+
+2) Add a square div beneath the chitchat notification.
+    * Give it a dark blue background.
+    * Give it vertical padding of 6 and horizontal padding of 12
+    * Add normal (paragraph-sized) white text that says "Hi, John!"
+
+*/
+
 function App() {
   /**
    * Explained:
